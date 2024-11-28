@@ -1,0 +1,9 @@
+{
+    "template": "Data Sharing - PostgreSQL API",
+    "credentials": [
+        {
+            "type": "POSTGRESQL",
+            "name": "psql"
+        }
+    ]
+}

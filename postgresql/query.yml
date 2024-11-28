@@ -1,0 +1,15 @@
+raw: "0.10"
+endpoint: GET
+metadata:
+  title: Simple greeting query.
+  description: Retrieves a greeting message 'Hello, World!' as a result of the SQL query. This is a placeholder SQL query. You can replace this query with any valid SQL query against your MySQL database.
+  tags:
+    - data_sharing
+    - mysql
+code: sql
+codeFile: query.sql
+format: json
+security:
+  public: true
+computeClass: normal
+enabled: true
