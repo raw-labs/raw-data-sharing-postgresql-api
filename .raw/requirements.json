@@ -3,7 +3,7 @@
     "credentials": [
         {
             "type": "POSTGRESQL",
-            "name": "psql"
+            "name": "postgresql"
         }
     ]
 }
