@@ -2,7 +2,7 @@ raw: "0.10"
 endpoint: GET
 metadata:
   title: Simple greeting query.
-  description: Retrieves a greeting message 'Hello, World!' as a result of the SQL query. <BR/><BR/>This is a placeholder SQL query. You can replace this query with any valid SQL query against your PostgreSQL database.<BR/><BR/>For example:<BR/><code>SELECT * FROM postgresql.&lt;your_table&gt;</code><BR/><BR/>If you introduce parameters, be sure to define them using RAW's parameter syntax.<BR/>For further information, please check the online docs: "https://docs.raw-labs.com/sql/examples/#modifying-the-example-to-add-a-query-parameter"
+  description: "Retrieves a greeting message 'Hello, World!' as a result of the SQL query. <BR/><BR/>This is a placeholder SQL query. You can replace this query with any valid SQL query against your PostgreSQL database.<BR/><BR/>For example:<BR/><code>SELECT * FROM postgresql.&lt;your_table&gt;</code><BR/><BR/>If you introduce parameters, be sure to define them using RAW's parameter syntax.<BR/>For further information, please check the online docs: https://docs.raw-labs.com/sql/examples/#modifying-the-example-to-add-a-query-parameter"
   tags:
     - data_sharing
     - postgresql
